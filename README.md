@@ -1,7 +1,7 @@
 # 2019-Team-101
 
 ## Team Name: 
-### Example
+### Example: Remove this
 >Member 1 : Write your name\
 >Check your status:
 >- [x] this is a marked item
