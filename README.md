@@ -2,75 +2,76 @@
 
 ## Team Name: 
 ### Members
-Check your status:
-- [x] this is a marked item
-- [ ] this is an unmarked item
+>Member 1 : Write your name
+>Check your status:
+>- [x] this is a marked item
+>- [ ] this is an unmarked item
 
 
-**Member 1: Name**
+**Member 1: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 2: Name**
+**Member 2: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 3: Name**
+**Member 3: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 4: Name**
+**Member 4: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 5: Name**
+**Member 5: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 6: Name**
+**Member 6: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 7: Name**
+**Member 7: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 8: Name**
+**Member 8: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 9: Name**
+**Member 9: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 10: Name**
+**Member 10: **
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
