@@ -8,70 +8,70 @@
 >- [ ] this is an unmarked item
 
 
-**Member 1: **
+**Member 1:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 2: **
+**Member 2:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 3: **
+**Member 3:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 4: **
+**Member 4:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 5: **
+**Member 5:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 6: **
+**Member 6:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 7: **
+**Member 7:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 8: **
+**Member 8:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 9: **
+**Member 9:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
 - [ ] Active SDSU veteran student
 - [ ] 14th grade (college 2nd year) or younger 
 
-**Member 10: **
+**Member 10:**
 **Member Status**
 - [ ] Active SDSU student
 - [ ] Female active SDSU student
