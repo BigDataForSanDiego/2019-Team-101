@@ -7,7 +7,7 @@
 >- [x] this is a marked item
 >- [ ] this is an unmarked item
 
-### Members
+## Members
 **Member 1:**\
 **Member Status**
 - [ ] Active SDSU student
