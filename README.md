@@ -1,79 +1,12 @@
 # 2019-Team-101
 
 ## Team Name: 
-### Example: Remove this
->Member 1 : Write your name\
->Check your status:
->- [x] this is a marked item
->- [ ] this is an unmarked item
+### Proposal submission/presentation guidelines
+> Customize proporsal submission template (add images) and submit your team proposal **by 4:30 p.m.**
+> 90 seconds Pitch Presentation should be a Power Point slide presentation(Max 3 pages)\
+> Only **FIRST slide** will be shown on the screen -- make it concise! 
 
-## Members
-**Member 1:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
 
-**Member 2:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
 
-**Member 3:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
 
-**Member 4:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
 
-**Member 5:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
-
-**Member 6:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
-
-**Member 7:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
-
-**Member 8:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
-
-**Member 9:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
-
-**Member 10:**\
-**Member Status**
-- [ ] Active SDSU student
-- [ ] Female active SDSU student
-- [ ] Active SDSU veteran student
-- [ ] 14th grade (college 2nd year) or younger 
