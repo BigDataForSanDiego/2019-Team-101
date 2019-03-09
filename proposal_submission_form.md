@@ -1,8 +1,8 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `101`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `World Wide`    
   
 #### Your team’s hackathon idea in TWO sentences:
 ##### `YOUR TWO SENTENCES HERE`
@@ -17,7 +17,7 @@
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Aiden Yoon           |         [_]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
