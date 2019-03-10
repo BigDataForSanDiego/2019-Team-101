@@ -5,8 +5,8 @@
 #### Team Name: `World Wide`    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### `Consultation from big data for improve mobility for the elderly.`
+##### `We hope that this will improve their independence from their families and foster homes.`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
@@ -31,8 +31,8 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
@@ -47,7 +47,7 @@
 
 **Smart Transportation**
 - [ ] How can San Diegans make better transportation decisions of getting from point A to Z that leaves a smaller carbon footprint?
-- [ ] Your question:
+- [X] Your question: Improve transportation.
 
 **Smart Health**
 - [ ] How can we share useful public health information and web analytical tools for improve public health in San Diego?
