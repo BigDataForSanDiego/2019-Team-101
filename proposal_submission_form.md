@@ -6,7 +6,7 @@
   
 #### Your team’s hackathon idea in TWO sentences:
 ##### `Consultation from big data for improve mobility, health, and finance for the elderly.`
-##### `We hope that this will improve their independence from their families and foster homes and alert the adults before bad stuff happens.`  
+##### `We hope that this will improve their independence from their families and foster homes and alert people before bad stuff happens.`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
