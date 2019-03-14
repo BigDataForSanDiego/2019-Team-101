@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace CityPark_.iOS
+namespace CityPark.iOS
 {
     public class Application
     {
