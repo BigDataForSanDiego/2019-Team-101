@@ -19,8 +19,9 @@ namespace CityPark.ViewModels
             NavigateMaps = new DelegateCommand(NavigateHandler);
         }
 
-        public void NavigateHandler()
+        public async void NavigateHandler()
         {
+            await NavigationService.NavigateAsync("/MapsPage"); 
         }
     }
 }

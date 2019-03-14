@@ -4,6 +4,7 @@ using CityPark.ViewModels;
 using CityPark.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Prism.Navigation;
 
 //[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace CityPark
@@ -30,7 +31,6 @@ namespace CityPark
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MapsPage>();
-
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
         }
     }
