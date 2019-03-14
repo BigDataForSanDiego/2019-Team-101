@@ -48,3 +48,5 @@ public class Resource {
 You would then use R.drawable.icon to reference the drawable/icon.png file, or Resource.layout.main 
 to reference the layout/main.xml file, or Resource.strings.first_string to reference the first 
 string in the dictionary file values/strings.xml.
+
+background image: https://www.flickr.com/photos/skynoir/8050866702/in/photolist-dgqNbA-ysPRZ3-oo5Jjh-aq8gK9-dBhKrE-8TSq2c-dQzCxr-ecamUE-p7MAy1-dPo7Za-dQLVGn-9yNsJb-dXRCSU-Xwm8Jn-5WBxuf-p6mgDx-99zEAZ-a6MW1T-oReaeq-6QF81z-9cGvkq-jJJ15T-w4EcpV-9byS19-sj2guq-s57YvQ-8oL2A6-dEMTsG-oSbEfm-dUu9QT-jL2x1U-Z6E1XL-BMLECH-ePtwsi-9giy7Y-pazxhk-iPc56i-jKTaBq-tYZbr-ekbiRJ-YBF7S4-f1Gre4-aixkzT-JVN1M6-qxFkgD-fM8KKf-eYm5Dj-SoAndn-4Hpjj-8Pwy9U
